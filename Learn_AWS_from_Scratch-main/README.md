@@ -1,11 +1,3 @@
-# Learn_AWS_from_Scratch
-
-### ![AWS Course](AWS_Course.png)
-
-
-### [**Watch the Complete Playlist**](https://youtube.com/playlist?list=PLOa-edppsqFn4MFr5KDqm0Y92d2nGyGgQ&si=srktTEibogJ-QDub)
-
-
 ## 🌟 Introduction
 Welcome to the **AWS Cloud From Scratch** repository! This repo is your go-to resource for building a solid foundation in Amazon Web Services (AWS). Whether you're just starting out or looking to sharpen your skills, you'll find everything you need here to get hands-on with the most crucial AWS services, particularly for a career in DevOps.
 
@@ -72,18 +64,9 @@ We welcome contributions from everyone! Here's how you can help:
 ## 📚 Useful Resources and References
 Boost your learning with these additional resources:
 
-- **📖 [AWS Official Documentation](https://aws.amazon.com/documentation/)**: In-depth guides straight from AWS.
-- **🎓 [AWS Skill Builder](https://skillbuilder.aws/)**: Free training resources and certification prep.
-
 ## 🌐 Connect with Me!
 Stay connected for more insights and opportunities:
 
-- **🔗 [LinkedIn](https://www.linkedin.com/in/nasiullha-chaudhari/)**: Connect with me on LinkedIn for networking and professional updates.
-- **📢 [Cloud Champ](https://www.youtube.com/@cloudchamp?sub_confirmation=1)**: Subscribe to Cloud Champ on YouTube for tutorials, tips, and cloud news! 🎥
 
-## 📄 Course Outline
-A detailed course outline is available in PDF format:
 
-- 📂 [AWS Cloud From Scratch - Course Outline](https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGI4N2Y2NDk3LThkMGEtNGNmYS04NjQ1LTQ1MGJkOGM4MzBmMQ?s=1)
 
----
